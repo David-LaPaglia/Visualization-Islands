@@ -8,6 +8,8 @@
     display: flex;
     font-family: Arial, sans-serif;
     line-height: 1.6;
+    height: 100vh; /* Use full viewport height */
+  overflow-y: auto; /* Allow scrolling if content exceeds height */
   }
   
   .sidebar {
@@ -39,6 +41,8 @@
   .content {
     flex: 1;
     padding: 20px;
+    overflow: auto; /* Allow the content section to scroll independently */
+
   }
   
   header h1 {
@@ -88,6 +92,13 @@
   
   section p {
     margin: 10px 0;
+  }
+  section {
+    margin-bottom: 20px; /* Add margin to space out sections */
+  }
+  
+  html {
+    scroll-behavior: smooth; /* Enable smooth scrolling */
   }
   
   code {

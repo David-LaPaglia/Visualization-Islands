@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/journey-into-jensen/static/css/main.ab95b758.css",
+    "main.js": "/journey-into-jensen/static/js/main.2c10bc5f.js",
+    "static/js/453.e02bc39e.chunk.js": "/journey-into-jensen/static/js/453.e02bc39e.chunk.js",
+    "index.html": "/journey-into-jensen/index.html",
+    "main.ab95b758.css.map": "/journey-into-jensen/static/css/main.ab95b758.css.map",
+    "main.2c10bc5f.js.map": "/journey-into-jensen/static/js/main.2c10bc5f.js.map",
+    "453.e02bc39e.chunk.js.map": "/journey-into-jensen/static/js/453.e02bc39e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab95b758.css",
+    "static/js/main.2c10bc5f.js"
+  ]
+}
